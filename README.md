@@ -14,7 +14,7 @@ Cristian Gonzalo Vera
 - Alumno A, GitHub: [@alumnoA](https://github.com/alumnoA). 
 - Alumno B, GitHub: [@alumnoB](https://github.com/alumnoB).
 - Alumno C, GitHub: [@alumnoC](https://github.com/alumnoC).
-- Alumno D, GitHub: [@alumnoD](https://github.com/alumnoD).
+- Diego Ares, GitHub: [@diegote7](https://github.com/diegote7).[**tkSP#1URG**]
 - Alumno E, GitHub: [@alumnoE](https://github.com/alumnoE).
 - Fernando Gimenez Coria, GitHub: [@FernandoGC](https://github.com/FerCbr). [**tkSP#1URG**]
 - Alumno G, GitHub: [@alumnoG](https://github.com/alumnoG).
