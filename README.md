@@ -14,7 +14,7 @@ Cristian Gonzalo Vera
 
 **Completar indicando tkSP1Urgentes completas**
 
-- Alumno A, GitHub: [@alumnoA](https://github.com/alumnoA).
+- karina jazmin barbero, GitHub: [@karina-lolis](https://github.com/karina-lolis).[**tkSP#1URG**]
 - Nicolás Nahuel Barrionuevo, GitHub: [@NicolasBa27](https://github.com/NicolasBa27).[**tkSP#1URG**]
 - Macarena Aylen Carballo, GitHub: [@MacarenaAC](https://github.com/MacarenaAC).[**tkSP#1URG**]
 - Diego Ares, GitHub: [@diegote7](https://github.com/diegote7).[**tkSP#1URG**]
