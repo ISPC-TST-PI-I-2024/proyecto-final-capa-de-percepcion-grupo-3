@@ -21,7 +21,7 @@ Cristian Gonzalo Vera
 - Alumno E, GitHub: [@alumnoE](https://github.com/alumnoE).
 - Fernando Gimenez Coria, GitHub: [@FernandoGC](https://github.com/FerCbr). [**tkSP#1URG**]
 - Alumno G, GitHub: [@alumnoG](https://github.com/alumnoG).
-- Alumno H, GitHub: [@alumnoH](https://github.com/alumnoH).
+- Raul Jara, GitHub: [@r-j28](https://github.com/r-j28).[**tkSP#1URG**]
 
 **ISSUE 1 en progreso** Todos crearon cuentas de github.  
 **ISSUE 2 en progreso** Todos se sumaron al equipo.  
