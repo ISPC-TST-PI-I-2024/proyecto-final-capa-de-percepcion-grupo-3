@@ -18,9 +18,7 @@ Cristian Gonzalo Vera
 - Nicolás Nahuel Barrionuevo, GitHub: [@NicolasBa27](https://github.com/NicolasBa27).[**tkSP#1URG**]
 - Macarena Aylen Carballo, GitHub: [@MacarenaAC](https://github.com/MacarenaAC).[**tkSP#1URG**]
 - Diego Ares, GitHub: [@diegote7](https://github.com/diegote7).[**tkSP#1URG**]
-- Alumno E, GitHub: [@alumnoE](https://github.com/alumnoE).
 - Fernando Gimenez Coria, GitHub: [@FernandoGC](https://github.com/FerCbr). [**tkSP#1URG**]
-- Alumno G, GitHub: [@alumnoG](https://github.com/alumnoG).
 - Raul Jara, GitHub: [@r-j28](https://github.com/r-j28).[**tkSP#1URG**]
 
 **ISSUE 1 en progreso** Todos crearon cuentas de github.  
